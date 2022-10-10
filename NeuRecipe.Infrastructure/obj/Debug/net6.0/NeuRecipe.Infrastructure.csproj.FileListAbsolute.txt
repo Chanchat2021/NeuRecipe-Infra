@@ -1,0 +1,17 @@
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\bin\Debug\net6.0\NeuRecipe.Infrastructure.deps.json
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\bin\Debug\net6.0\NeuRecipe.Infrastructure.runtimeconfig.json
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\bin\Debug\net6.0\NeuRecipe.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\bin\Debug\net6.0\NeuRecipe.Infrastructure.pdb
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\bin\Debug\net6.0\NeuRecipe.Domain.dll
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\bin\Debug\net6.0\NeuRecipe.Domain.pdb
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.AssemblyInfo.cs
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.csproj.CopyComplete
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\refint\NeuRecipe.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.pdb
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\NeuRecipe.Infrastructure.genruntimeconfig.cache
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Infrastructure\obj\Debug\net6.0\ref\NeuRecipe.Infrastructure.dll
